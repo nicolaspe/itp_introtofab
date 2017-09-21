@@ -34,3 +34,5 @@ Now came one of the most frustrating parts of this project (it was such a pain!)
 Of course, there were other problems as well: Forgetting to cut that one piece and realizing after the shop closed; being careful and not drilling too big holes on the acrylic so it doesn't break, but being too conservative and the holes were too small; being *on the zone* working only to interrupt the whole flow because of other classes, etc. But in the end, I managed to get this done (woot!), and I'm pretty happy with the result.
 
 ![Sign friggin' done](fab0207_final.jpg)
+
+![All the beautiful signs](fab0207_finalAll.jpg)
